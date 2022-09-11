@@ -1,6 +1,6 @@
 ---
-title: Elair service digital.
-subtitle: Nous vous accompagnons dans tous vos projets digitales.
+title: Elair Congo
+subtitle: "Vous accompagne dans vos projets professionnels. "
 image: img/istock-1200957578.jpg
 blurb:
   heading: C'est quoi Elair.
