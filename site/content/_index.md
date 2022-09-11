@@ -1,7 +1,7 @@
 ---
 title: Elair Congo
 subtitle: "Vous accompagne dans vos projets professionnels. "
-image: img/istock-1200957578.jpg
+image: img/pngtree-two-leaves-with-orange-colour-vector-or-color-illustration-png-image_2040607.jpg
 blurb:
   heading: C'est quoi Elair.
   text: Kaldi is the coffee store for everyone who believes that great coffee
