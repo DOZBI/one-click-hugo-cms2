@@ -11,11 +11,13 @@ blurb:
     service  digital se veut être un partenaire stable, proactif et au service
     de sa clientèle.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Notre service en détail
+  text: "Elair service est une agence digitam  dont la mission est de permettre
+    aux entreprises de comprendre et d’exploiter les services digitales dans
+    toute sa puissance. La société comprend 30 experts dédiés à créer des sites
+    web et applications pour toutes marque de produits numériques android  ,
+    iphone , Windows , mac. et bien d'autres service comme la création d'un
+    email professionnel. "
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
