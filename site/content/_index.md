@@ -4,10 +4,12 @@ subtitle: "Vous accompagne dans vos projets professionnels. "
 image: img/pngtree-two-leaves-with-orange-colour-vector-or-color-illustration-png-image_2040607.jpg
 blurb:
   heading: C'est quoi Elair.
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: Depuis 2020, date de sa création, Elair  Business se positionne comme un
+    acteur incontournable du digital . Forte de l’expertise de ses
+    collaborateurs dans le secteur du Webmarketing et d’un suivi continu des
+    nouvelles tendances et actualisations du marché, notre agence spécialisée en
+    service  digital se veut être un partenaire stable, proactif et au service
+    de sa clientèle.
 intro:
   heading: What we offer
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
