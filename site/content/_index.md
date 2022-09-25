@@ -1,7 +1,7 @@
 ---
 title: Elair Congo
 subtitle: "Vous accompagne dans vos projets professionnels. "
-image: img/pngtree-two-leaves-with-orange-colour-vector-or-color-illustration-png-image_2040607.jpg
+image: img/200.jpg
 blurb:
   heading: C'est quoi Elair.
   text: Depuis 2020, date de sa création, Elair  Business se positionne comme un
