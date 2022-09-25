@@ -30,8 +30,12 @@ products:
       dans les  commerces locaux ,  "
 values:
   heading: "Le dropshipping. "
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >+
+    Le dropshipping  vous aide  à  écouler tout vos stocks de produits sans le
+    moindre  aucun effet  effort  Elair service vous offre la possibilité  de
+    toucher  une cibles  que beaucoup  de commerçants  et
+    entreprises  africaines  ignorent  parfois  qui est internet
+    aujourd'hui  près  de  
+
+    83 % des Congolais âgés de 16 à 74 ans effectuent toutes leurs recherches sur internet depuis leur domicile et 33 % parmi eux se connectent sur Internet depuis leur lieu de travail.
 ---
