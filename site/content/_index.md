@@ -4,20 +4,20 @@ subtitle: "Vous accompagne dans vos projets professionnels. "
 image: img/200.jpg
 blurb:
   heading: C'est quoi Elair.
-  text: Depuis 2020, date de sa création, Elair  Business se positionne comme un
-    acteur incontournable du digital . Forte de l’expertise de ses
+  text: Depuis 2021, date de sa création, Elair  Business se positionne comme un
+    acteur incontournable du digital en Afrique . Forte de l’expertise de ses
     collaborateurs dans le secteur du Webmarketing et d’un suivi continu des
     nouvelles tendances et actualisations du marché, notre agence spécialisée en
     service  digital se veut être un partenaire stable, proactif et au service
     de sa clientèle.
 intro:
   heading: Notre service en détail
-  text: "Elair service est une agence digitam  dont la mission est de permettre
+  text: "Elair service est une agence digital  dont la mission est de permettre
     aux entreprises de comprendre et d’exploiter les services digitales dans
-    toute sa puissance. La société comprend 30 experts dédiés à créer des sites
-    web et applications pour toutes marque de produits numériques android  ,
-    iphone , Windows , mac. et bien d'autres service comme la création d'un
-    email professionnel. "
+    toute sa puissance. La société comprend 30 experts dédiés à créer des
+    stratégies  marketing  et des sites web et applications pour toutes marque
+    de produits numériques android  , iphone , Windows , mac. et bien d'autres
+    service comme la création d'un email professionnel. "
 products:
   - image: img/350.jpg
     text: >
@@ -30,7 +30,7 @@ products:
       dans les  commerces locaux ,  "
 values:
   heading: "Le dropshipping. "
-  text: >+
+  text: >
     Le dropshipping  vous aide  à  écouler tout vos stocks de produits sans le
     moindre  aucun effet  effort  Elair service vous offre la possibilité  de
     toucher  une cibles  que beaucoup  de commerçants  et
